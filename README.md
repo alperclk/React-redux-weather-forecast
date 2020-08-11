@@ -3,12 +3,10 @@ React-redux weather forecast example with weatherapi
 
 ## Installation
 ```
-Redux
+
 npm install react-redux
-Json-Server for fake api
 npm install -g json-server
-Reactstrap
-npm install --save reactstrap react react-dom<br>
+npm install --save reactstrap react react-dom
 import 'bootstrap/dist/css/bootstrap.min.css';
 Import Bootstrap CSS in the src/index.js file:
 ```
