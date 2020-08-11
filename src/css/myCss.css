@@ -1,0 +1,66 @@
+.navbarCss {
+  background-color: #284b63;
+}
+
+.reactPhoto {
+  height: 75%;
+  margin-left: 10%;
+}
+
+.listname {
+  font-family: cursive;
+  color: #152728;
+  background-color: #d9d9d9;
+  border-radius: 25%;
+}
+
+.extraCard{
+  max-width: 18rem;
+}
+
+.cardExtra{
+  width: 100%;
+}
+
+.myBadge{
+  background-color: #3C6E71;
+
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff;
+  width: 100%;
+}
+
+.goSource {
+  color: #606c38;
+}
+
+.htemplategri {
+  color: #152728;
+  font-family: cursive;
+}
+
+.rowBosluk {
+  margin-top: 5%;
+}
+
+.aciklama {
+  font-family: cursive;
+  color: #152728;
+}
+
+.nSurname {
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.yazi {
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.arkasiGri {
+  background-color: #d9d9d9;
+}
