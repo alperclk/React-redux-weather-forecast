@@ -22,3 +22,6 @@ npm start
 ## note
 this api key I use just 60.000 requests per month 
 if you want to send more requests to api, you can get a new key on https://www.weatherapi.com/
+
+![alt text](https://github.com/alperclk/React-redux-weather-forecast/blob/master/src/images/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
