@@ -3,16 +3,17 @@ React-redux weather forecast example with weatherapi
 
 ## Installation
 ```
-[React](https://github.com/facebook/react) <br>
-[Redux](https://github.com/reduxjs/react-redux) npm install react-redux <br>
-[Json-Server](https://github.com/typicode/json-server) npm install -g json-server <br>
-[Reactstrap](https://reactstrap.github.io/) npm install --save reactstrap react react-dom <br>
+React (https://github.com/facebook/react)<br>
+Redux<br> 
+https://github.com/reduxjs/react-redux npm install react-redux<br>
+Json-Server<br> https://github.com/typicode/json-server npm install -g json-server<br>
+Reactstrap<br> https://reactstrap.github.io/ npm install --save reactstrap react react-dom<br>
 import 'bootstrap/dist/css/bootstrap.min.css'; Import Bootstrap CSS in the src/index.js file:
 ```
 ## run
 ```
 cd src <br>
-json-server --watch countries_states.json <br>
+json-server --watch countries_states.json<br>
 npm start <br>
 ```
 
