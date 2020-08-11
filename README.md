@@ -14,11 +14,11 @@ Import Bootstrap CSS in the src/index.js file:
 ```
 ## run
 ```
-cd src <br>
-json-server --watch countries_states.json<br>
-npm start <br>
+cd src 
+json-server --watch countries_states.json
+npm start
 ```
 
 ## note
-this api key I use just 60.000 requests per month <br>
-if you want to send more requests to api, you can get a new key on [weatherapi.com](https://www.weatherapi.com/)
+this api key I use just 60.000 requests per month 
+if you want to send more requests to api, you can get a new key on https://www.weatherapi.com/
